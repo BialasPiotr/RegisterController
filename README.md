@@ -1,5 +1,5 @@
 # RegisterController
-JavaFX User login and register GUI in IntelliJ and Scene Builder with MySQL
+Creating a JavaFX User Login and Registration Interface in IntelliJ and Scene Builder, Integrated with MySQL Database.
 
 <img width="385" alt="login" src="https://user-images.githubusercontent.com/96840701/231894503-761b78eb-1c9f-4df2-afe4-0fe1b7db600f.png">
 
